@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dzikir</string>
+
+    <string name="dzikir_sholat">Dzikir Sholat</string>
+    <string name="dzikir_sholat_total_read">8 Bacaan</string>
+    <string name="dzikir_pagi">Dzikir Pagi</string>
+    <string name="dzikir_pagi_total_read">18 Bacaan</string>
+    <string name="dzikir_petang">Dzikir Petang</string>
+    <string name="dzikir_petang_total_read">14 Bacaan</string>
+</resources>
