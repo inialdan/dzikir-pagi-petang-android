@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "868443517078",
+    "project_id": "play-store-aldan",
+    "storage_bucket": "play-store-aldan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868443517078:android:22357077dad0f8fa3512b7",
+        "android_client_info": {
+          "package_name": "com.inialdan.kms.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868443517078-lmsfhlenf7dg1i778rb4drv0o24ep0hg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inialdan.kms.android",
+            "certificate_hash": "0082cb84336c19a5000861982192514a0e7d0338"
+          }
+        },
+        {
+          "client_id": "868443517078-os81d9c78b4usgdcan7ko3n767asaloi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKTSgWPT5NZNmbkTPT1BeXDk18euZrQO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868443517078-os81d9c78b4usgdcan7ko3n767asaloi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868443517078:android:5d15ecf29215cb643512b7",
+        "android_client_info": {
+          "package_name": "inialdan.com.dzikirpagipetang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868443517078-os81d9c78b4usgdcan7ko3n767asaloi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKTSgWPT5NZNmbkTPT1BeXDk18euZrQO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868443517078-os81d9c78b4usgdcan7ko3n767asaloi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868443517078:android:bea8bce157f296fb3512b7",
+        "android_client_info": {
+          "package_name": "inialdan.com.matematriks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868443517078-os81d9c78b4usgdcan7ko3n767asaloi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "#"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868443517078-os81d9c78b4usgdcan7ko3n767asaloi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

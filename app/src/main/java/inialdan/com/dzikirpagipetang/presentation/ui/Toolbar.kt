@@ -84,7 +84,7 @@ fun CustomToolbar(title: String) {
                         Text("Sumber:")
                         Text("1. Rumaysho - Bacaan Dzikir Pagi")
                         Text("2. Rumyasho - Bacaan Dzikir Petang")
-                        Text("3. Yazid bin Abdul Qadir Jawas\n    Dzikir Pagi Petang dan Sesudah Shalat\n    Fardhu (2017) - Pustaka Imam Asy-Syafii")
+                        Text("3. Alm. Ustadz Yazid bin Abdul Qadir Jawas\n    Dzikir Pagi Petang dan Sesudah Shalat\n    Fardhu (2017) - Pustaka Imam Asy-Syafii")
                     }
                 },
                 confirmButton = {
